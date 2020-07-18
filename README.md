@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-18 21:06:40, I have solved **0** / **1385** problems while **220** are still locked.
+Until 2020-07-18 21:18:20, I have solved **7** / **1385** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 0
+2. Python: 7
 3. C++: 0
 4. Java: 0
 
@@ -13,8 +13,8 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|To Do|
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/001.%20Two%20Su\two-sum.py)|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Number\add_two_number.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -47,7 +47,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|To Do|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Positio\search_insert.py)|To Do|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -109,7 +109,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
-|097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|
+|097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/097.%20Interleaving%20Strin\interleaving_string.py)|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -317,7 +317,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |Medium|To Do|To Do|To Do|To Do|
 |320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/) |Hard|To Do|To Do|To Do|To Do|
-|322|[Coin Change](https://leetcode.com/problems/coin-change/description/) |Medium|To Do|To Do|To Do|To Do|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/322.%20Coin%20Chang\coin_change.py)|To Do|To Do|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -734,7 +734,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|To Do|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|To Do|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Easy|To Do|To Do|To Do|To Do|
-|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|To Do|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/785.%20Is%20Graph%20Bipartite\is_bipartite.py)|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|To Do|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -935,7 +935,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/description/) |Easy|To Do|To Do|To Do|To Do|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|To Do|To Do|To Do|To Do|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/509.%20Fibonacci%20Numbe\fib.py)|To Do|To Do|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Medium|To Do|To Do|To Do|To Do|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|To Do|
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|To Do|To Do|
