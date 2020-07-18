@@ -133,7 +133,8 @@ class TableInform:
                             complete_info.solved['python'] += 1
                             # update problem inform
                             folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
+                            folder_url = folder_url+'/'+item
+                            #folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             # print(folder_url)
                             self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
