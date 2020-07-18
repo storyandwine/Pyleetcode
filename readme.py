@@ -15,9 +15,9 @@ class Config:
     """
     local_path = 'E://Pyleetcode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/'
+    github_leetcode_url = 'https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
-    github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
+    github_pat_url = 'https://github.com/storyandwine/Pyleetcode/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
 
 
