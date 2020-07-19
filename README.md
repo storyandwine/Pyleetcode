@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-18 21:28:53, I have solved **7** / **1385** problems while **220** are still locked.
+Until 2020-07-19 13:47:04, I have solved **8** / **1385** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 7
+2. Python: 8
 3. C++: 0
 4. Java: 0
 
@@ -307,7 +307,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) |Medium|To Do|To Do|To Do|To Do|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) |Medium|To Do|To Do|To Do|To Do|
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |Hard|To Do|To Do|To Do|To Do|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |Hard|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/312.%20Burst%20Balloon/burst_ballon.py)|To Do|To Do|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|To Do|To Do|To Do|To Do|
