@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-19 13:47:04, I have solved **8** / **1385** problems while **220** are still locked.
+Until 2020-07-20 15:25:51, I have solved **9** / **1385** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 8
+2. Python: 9
 3. C++: 0
 4. Java: 0
 
@@ -179,7 +179,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) |Hard|To Do|To Do|To Do|To Do|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|To Do|To Do|To Do|To Do|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorte/two_sum.py)|To Do|To Do|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|To Do|To Do|To Do|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|To Do|To Do|To Do|To Do|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
