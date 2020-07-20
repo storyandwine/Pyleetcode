@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-20 15:25:51, I have solved **9** / **1385** problems while **220** are still locked.
+Until 2020-07-20 16:47:44, I have solved **10** / **1385** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 9
+2. Python: 10
 3. C++: 0
 4. Java: 0
 
@@ -15,7 +15,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/001.%20Two%20Su/two-sum.py)|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Number/add_two_number.py)|To Do|To Do|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Character/003.py)|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
