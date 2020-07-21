@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-20 16:47:44, I have solved **10** / **1385** problems while **220** are still locked.
+Until 2020-07-21 10:53:58, I have solved **11** / **1389** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 10
+2. Python: 11
 3. C++: 0
 4. Java: 0
 
@@ -107,7 +107,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
-|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/095.%20Unique%20Binary%20Search%20Trees%20I/095.py)|To Do|To Do|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/097.%20Interleaving%20Strin/interleaving_string.py)|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1396,5 +1396,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1513|[Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) |Medium|To Do|To Do|To Do|To Do|
 |1515|[Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/description/) |Hard|To Do|To Do|To Do|To Do|
 |1500|[Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/description/) |Easy|To Do|To Do|To Do|To Do|
+|1519|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) |Medium|To Do|To Do|To Do|To Do|
+|1520|[Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) |Medium|To Do|To Do|To Do|To Do|
+|1521|[Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/) |Hard|To Do|To Do|To Do|To Do|
 |1506|[Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1516|[Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
