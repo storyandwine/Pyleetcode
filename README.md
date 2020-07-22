@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-21 10:53:58, I have solved **11** / **1389** problems while **220** are still locked.
+Until 2020-07-22 21:12:49, I have solved **12** / **1389** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 11
+2. Python: 12
 3. C++: 0
 4. Java: 0
 
@@ -166,7 +166,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20I/154.py)|To Do|To Do|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|To Do|To Do|To Do|To Do|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
