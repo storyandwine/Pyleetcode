@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-22 21:12:49, I have solved **12** / **1389** problems while **220** are still locked.
+Until 2020-07-23 15:07:36, I have solved **13** / **1389** problems while **220** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 12
+2. Python: 13
 3. C++: 0
 4. Java: 0
 
@@ -76,7 +76,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Su/064.py)|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|To Do|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|
