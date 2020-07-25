@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-24 11:41:05, I have solved **14** / **1389** problems while **220** are still locked.
+Until 2020-07-25 21:53:34, I have solved **15** / **1390** problems while **221** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 14
+2. Python: 15
 3. C++: 0
 4. Java: 0
 
@@ -72,7 +72,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|To Do|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -366,7 +366,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) |Medium|To Do|To Do|To Do|To Do|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|To Do|To Do|To Do|To Do|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Medium|To Do|To Do|To Do|To Do|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|To Do|To Do|To Do|To Do|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|To Do|To Do|To Do|To Do|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -405,7 +405,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
-|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|To Do|To Do|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/410.%20Split%20Array%20Largest%20Su/410.py)|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|To Do|To Do|To Do|To Do|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -685,7 +685,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) |Easy|To Do|To Do|To Do|To Do|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|To Do|To Do|To Do|To Do|
 |750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/) |Medium|To Do|To Do|To Do|To Do|
 |753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/) |Hard|To Do|To Do|To Do|To Do|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -1402,3 +1402,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |1521|[Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/) |Hard|To Do|To Do|To Do|To Do|
 |1506|[Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |1516|[Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|1522|[Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
