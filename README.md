@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-07-25 21:53:34, I have solved **15** / **1390** problems while **221** are still locked.
+Until 2020-07-27 20:58:59, I have solved **16** / **1390** problems while **221** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 15
+2. Python: 16
 3. C++: 0
 4. Java: 0
 
@@ -387,7 +387,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Easy|To Do|To Do|To Do|To Do|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Easy|To Do|[Python](https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/392.%20Is%20Subsequenc/392.py)|To Do|To Do|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|To Do|To Do|To Do|To Do|
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
