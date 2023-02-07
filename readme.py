@@ -13,7 +13,7 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = 'E://Pyleetcode'
+    local_path = 'D://OneDrive - 中山大学//Pyleetcode'
     # solution of leetcode
     github_leetcode_url = 'https://github.com/storyandwine/Pyleetcode/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
